@@ -81,3 +81,7 @@ RetUNet_train 555 2d 0
 
 RetUNet_predict -i INPUT_FOLDER -o OUTPUT_FOLDER -d DATASET_NAME_OR_ID -c 2d--save_probabilities
 ```
+
+## Acknowledgement
+
+This repository is built based on [nnUNetv2](https://github.com/MIC-DKFZ/nnUNet) repository.
